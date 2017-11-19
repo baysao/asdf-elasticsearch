@@ -5,7 +5,7 @@ Elasticsearch plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 ## Install
 
 ```
-asdf plugin-add elasticsearch https://github.com/asdf-vm/asdf-elasticsearch.git
+asdf plugin-add elasticsearch https://github.com/baysao/asdf-elasticsearch.git
 ```
 
 ## Use
